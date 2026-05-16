@@ -18585,6 +18585,13 @@
     "repo": "akdemirdeniz/obsidian-tipa"
   },
   {
+    "id": "transcripcion-obsidian",
+    "name": "Transcripción Obsidian",
+    "author": "Jesús García y DeepSeek V4-Pro",
+    "description": "Grabá y transcribí audios con identificación de hablantes usando Gladia, Deepgram o AssemblyAI.",
+    "repo": "jaliriogbarrios19/Transcripcion-Obsidian"
+  },
+  {
     "id": "transcription-audio",
     "name": "Transcription Audio",
     "author": "cha-yh",
